@@ -1,7 +1,5 @@
 # Ejemplos de la Unidad VI — Prototipos y Delegación
 
-Programación Orientada a Objetos (PO-082103) · Ingeniería en Mecatrónica · La Salle Saltillo
-
 Este repositorio acompaña la presentación de la Unidad VI. Cada archivo de `src/` es un
 programa **independiente** (con su propio `main`) que corresponde a una o más
 diapositivas. El número al inicio del nombre es el número de la diapositiva.
